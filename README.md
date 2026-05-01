@@ -13,7 +13,7 @@
 
 ---
 
-## ✋ Philosophy
+## Philosophy
 
 Most retail trading education teaches you to read *price*. Institutions trade *volume*. This list is built around one foundational truth:
 
@@ -29,7 +29,7 @@ This is a resource for traders who are serious about building a durable, data-dr
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Foundational Books](#foundational-books)
 - [Options, Volatility & GEX](#options-volatility--gex)
@@ -48,7 +48,7 @@ This is a resource for traders who are serious about building a durable, data-dr
 
 ---
 
-## 📖 Foundational Books
+## Foundational Books
 
 Books that form the intellectual backbone of institutional trading. Read in the order listed for the best progression.
 
@@ -101,7 +101,7 @@ Books that form the intellectual backbone of institutional trading. Read in the 
 
 ---
 
-## 📈 Options, Volatility & GEX
+## Options, Volatility & GEX
 
 Options market makers (dealers) continuously hedge their exposure (Gamma, Delta, Vanna, Charm), which profoundly impacts the underlying futures market. Understanding Gamma Exposure (GEX) is essential for predicting market pinning, volatility expansion, and directional magnetism.
 
@@ -128,7 +128,7 @@ Options market makers (dealers) continuously hedge their exposure (Gamma, Delta,
 
 ---
 
-## 📈 Market Profile & Volume Profile
+## Market Profile & Volume Profile
 
 ### Primary Documents
 
@@ -153,7 +153,7 @@ Options market makers (dealers) continuously hedge their exposure (Gamma, Delta,
 
 ---
 
-## 🔬 Order Flow & Footprint Charts
+## Order Flow & Footprint Charts
 
 Order flow trading reads the *real-time battle* between buyers and sellers at the level of individual transactions — the tape. Footprint charts are the primary visualization tool.
 
@@ -179,7 +179,7 @@ Order flow trading reads the *real-time battle* between buyers and sellers at th
 
 ---
 
-## 🔬 Market Microstructure & Academic Reading
+## Market Microstructure & Academic Reading
 
 For traders who want to understand the *mechanics* of how orders flow through exchanges and who the market participants really are.
 
@@ -194,7 +194,7 @@ For traders who want to understand the *mechanics* of how orders flow through ex
 
 ---
 
-## 🛠️ Free Tools & Calculators
+## Free Tools & Calculators
 
 ### From AlgoStorm
 
@@ -215,7 +215,7 @@ Professional-grade tools built specifically for institutional order flow traders
 
 ---
 
-## 🤖 Systematic & Algorithmic Trading
+## Systematic & Algorithmic Trading
 
 Institutional edges are rigorously backtested. These frameworks allow traders to move beyond discretionary chart reading and quantify their strategies.
 
@@ -234,7 +234,7 @@ TradingView is the most accessible charting platform globally. Learning Pine Scr
 
 ---
 
-## 💾 Institutional Tech & Data Stack
+## Institutional Tech & Data Stack
 
 Institutions do not rely solely on charting GUIs; they process raw Level 3 order book and tick data.
 
@@ -244,7 +244,7 @@ Institutions do not rely solely on charting GUIs; they process raw Level 3 order
 
 ---
 
-## 🌍 Macro & Fixed Income Mechanics
+## Macro & Fixed Income Mechanics
 
 The largest volume in the world flows through fixed income. Understanding Central Bank liquidity, Treasury yields, and overnight funding is crucial for predicting equity indices and FX.
 
@@ -254,7 +254,7 @@ The largest volume in the world flows through fixed income. Understanding Centra
 
 ---
 
-## 💻 Platforms & Charting Software
+## Platforms & Charting Software
 
 Platforms that support genuine order flow analysis — footprint charts, volume profiles, DOM, and tape.
 
@@ -275,7 +275,7 @@ Platforms that support genuine order flow analysis — footprint charts, volume 
 
 ---
 
-## 📡 Free Data Sources
+## Free Data Sources
 
 | Source | What You Get | Link |
 | --- | --- | --- |
@@ -291,7 +291,7 @@ Platforms that support genuine order flow analysis — footprint charts, volume 
 
 ---
 
-## 📺 YouTube Channels
+## YouTube Channels
 
 Channels that consistently produce content grounded in institutional mechanics — not retail indicator noise.
 
@@ -304,7 +304,7 @@ Channels that consistently produce content grounded in institutional mechanics �
 
 ---
 
-## 📖 Glossary of Key Concepts
+## Glossary of Key Concepts
 
 A quick-reference glossary for traders new to institutional methodology.
 
@@ -327,7 +327,7 @@ A quick-reference glossary for traders new to institutional methodology.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome. If you know of a resource that genuinely belongs here — a book, tool, platform, or community that supports **institutional-grade, data-driven trading** — please open a pull request.
 
@@ -341,13 +341,13 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting.
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 The resources, links, and materials provided in this repository are for educational and informational purposes only. **AlgoStorm** is not affiliated with, nor does it endorse, any third-party platforms, brokers, or data providers listed here. We are not responsible for the accuracy of external content or any financial losses incurred from using these resources. Always conduct your own due diligence.
 
 ---
 
-## 📜 License
+## License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](LICENSE)
 
