@@ -1,4 +1,4 @@
-# 📊 Institutional Trading Resources
+# 📊 Awesome Institutional Trading Resources
 
 > A curated collection of **institutional-grade** resources for serious futures, forex, and crypto traders.  
 > Focused on **Order Flow**, **Volume Profile**, **Market Profile**, and the mechanics of how institutions actually move markets.
