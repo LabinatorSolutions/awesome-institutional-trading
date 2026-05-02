@@ -7,8 +7,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Maintained Status: Yes](https://img.shields.io/badge/Maintained-Yes-004d00?labelColor=1a1a1a)
-![Pull Requests Welcome](https://img.shields.io/badge/PRs-Welcome-003366?labelColor=1a1a1a)
-![Zero Affiliate Links Guarantee](https://img.shields.io/badge/Affiliate_Links-Zero-004d00?labelColor=1a1a1a)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-Welcome-003366?labelColor=1a1a1a)](CONTRIBUTING.md)
+[![Zero Affiliate Links Guarantee](https://img.shields.io/badge/Affiliate_Links-Zero-004d00?labelColor=1a1a1a)](#philosophy)
 [![License: Creative Commons BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-003366?labelColor=1a1a1a)](LICENSE)
 
 ---
