@@ -5,11 +5,11 @@
 
 **Brought to you by [AlgoStorm](https://algostorm.com) — Master institutional order flow, volume profile, and systematic price action strategies.**
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blue)
-![Zero Affiliate Links](https://img.shields.io/badge/Affiliate_Links-Zero-success)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](LICENSE)
+[![Awesome List Badge](https://img.shields.io/badge/Awesome-List-7a003c?labelColor=1a1a1a)](https://awesome.re)
+![Maintained Status: Yes](https://img.shields.io/badge/Maintained-Yes-004d00?labelColor=1a1a1a)
+![Pull Requests Welcome](https://img.shields.io/badge/PRs-Welcome-003366?labelColor=1a1a1a)
+![Zero Affiliate Links Guarantee](https://img.shields.io/badge/Affiliate_Links-Zero-004d00?labelColor=1a1a1a)
+[![License: Creative Commons BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-003366?labelColor=1a1a1a)](LICENSE)
 
 ---
 
@@ -351,7 +351,7 @@ The resources, links, and materials provided in this repository are for educatio
 
 ## License
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](LICENSE)
+[![License: Creative Commons BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-003366?labelColor=1a1a1a)](LICENSE)
 
 This list is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See [LICENSE](LICENSE) for details.
 
