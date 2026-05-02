@@ -129,10 +129,9 @@ Options market makers (dealers) continuously hedge their exposure (Gamma, Delta,
 
 ## Market Profile & Volume Profile
 
-### Primary Documents
+### Primary Books
 
-- 📄 **[CBOT Market Profile Manual](https://www.cbot.com)** — The original document produced by the Chicago Board of Trade, based on J. Peter Steidlmayer's research. This is the origin of Market Profile theory. Search "CBOT Market Profile Handbook" to locate archived PDFs.
-- 📄 **[Steidlmayer on Markets](https://www.amazon.com/Steidlmayer-Markets-Trading-J-Peter/dp/0471809675)** — J. Peter Steidlmayer's own book developing the Market Profile concept. Dense but authoritative.
+- 📄 **[Steidlmayer on Markets](https://www.amazon.com/Steidlmayer-Markets-Trading-Market-Profile/dp/0471215562)** — J. Peter Steidlmayer's own book developing the Market Profile concept. Dense but authoritative.
 
 ### Concepts to Master (in order)
 
