@@ -179,7 +179,7 @@ For traders who want to understand the *mechanics* of how orders flow through ex
 - 🌐 [SSRN Finance Research](https://www.ssrn.com/en/) — Repository of free academic papers on market microstructure, order flow, and liquidity.
 - 🌐 [CME Group Education](https://www.cmegroup.com/education.html) — Official educational resources from the exchange itself. Includes contract specifications, margin documentation, and market mechanics.
 - 📄 **[Market Liquidity: Theory, Evidence, and Policy](https://www.amazon.com/Market-Liquidity-Theory-Evidence-Policy/dp/0199936242)** — Thierry Foucault. The definitive text on how liquidity is provided and consumed in modern electronic markets.
-- 📄 **[Empirical Market Microstructure](https://www.amazon.com/Empirical-Market-Microstructure-Institutions-Econometrics/dp/0195182065)** — Joel Hasbrouck. The technical standard for the econometrics of securities trading.
+- 📄 **[Empirical Market Microstructure](https://www.amazon.com/Empirical-Market-Microstructure-Institutions-Econometrics/dp/0195301641)** — Joel Hasbrouck. The technical standard for the econometrics of securities trading.
 - 🌐 [Bank for International Settlements (BIS) Research](https://www.bis.org/) — The "Central Bank of Central Banks." Publishes quarterly reviews and working papers on global liquidity and market structure.
 - 🌐 [FIX Trading Community](https://www.fixtrading.org/) — The non-profit that manages the FIX Protocol, the technical messaging standard institutions use to execute order flow.
 
