@@ -58,13 +58,12 @@ Books that form the intellectual backbone of institutional trading. Read in the 
 | --- | --- | --- |
 | [Trading in the Zone](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude/dp/0735201447) | Mark Douglas | The definitive text on trading psychology. Understand why discipline, not strategy, is the primary failure point for most traders. |
 | [The Disciplined Trader](https://www.amazon.com/Disciplined-Trader-Developing-Winning-Attitudes/dp/0132157578) | Mark Douglas | Douglas's earlier and equally important work on the mental framework required for consistency. |
-| [Reminiscences of a Stock Operator](https://www.amazon.com/Reminiscences-Stock-Operator-Edwin-Lef%C3%A8vre/dp/0471770884) | Edwin Lefèvre (Jesse Livermore) | A timeless account of how the greatest speculator of his era thought about markets, risk, and timing. Required reading. |
 
 ### Risk Management & Portfolio Mathematics
 
 | Book | Author | Why It Matters |
 | --- | --- | --- |
-| [Active Portfolio Management](https://www.amazon.com/Active-Portfolio-Management-Quantitative-Approach/dp/0070247343) | Richard Grinold, Ronald Kahn | The absolute standard for institutional portfolio construction, risk attribution, and the Information Ratio. |
+| [Active Portfolio Management](https://www.amazon.com/Active-Portfolio-Management-Quantitative-Controlling/dp/0070248826) | Richard Grinold, Ronald Kahn | The absolute standard for institutional portfolio construction, risk attribution, and the Information Ratio. |
 | [The Mathematics of Money Management](https://www.amazon.com/Mathematics-Money-Management-Risk-Analysis/dp/0471547387) | Ralph Vince | Deep mathematical dive into position sizing, optimal f, and drawdown probability. |
 | [Antifragile](https://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/0812979680) | Nassim Nicholas Taleb | Essential conceptual framework for understanding convex payoffs and surviving market tail risks. |
 
@@ -72,9 +71,9 @@ Books that form the intellectual backbone of institutional trading. Read in the 
 
 | Book | Author | Why It Matters |
 | --- | --- | --- |
-| [The Wyckoff Methodology in Depth](https://www.amazon.com/Wyckoff-Methodology-Depth-Ruben-Villahermosa/dp/1792924763) | Rubén Villahermosa | The clearest modern explanation of Wyckoff's supply/demand and accumulation/distribution framework. |
+| [The Wyckoff Methodology in Depth](https://www.amazon.com/dp/B08W2X3TQY) | Rubén Villahermosa | The clearest modern explanation of Wyckoff's supply/demand and accumulation/distribution framework. |
 | [Trades About to Happen](https://www.amazon.com/Trades-About-Happen-Wyckoff-Methodology/dp/0470487801) | David H. Weis | Applies Wyckoff principles to modern markets using real charts. Practical and precise. |
-| [How to Trade in Stocks](https://www.amazon.com/How-Trade-Stocks-Jesse-Livermore/dp/007139345X) | Jesse L. Livermore | Livermore's own methodology on reading market conditions, timing entries, and position management. |
+| [Jesse Livermore's Two Books of Market Wisdom](https://www.amazon.com/dp/B09648V5Z9) |  Richard Demille Wyckoff, Jesse Lauriston Livermore, Edwin Lefevre | Two great works attributed to the great Jesse Livermore presented together in one volume with a new foreword by Juliette Rogers. Both contain interesting insights into Livermore’s life and times as well as the reasons for his success. They remain classics and must a must listen for every new aspirant in the world of speculation. |
 
 ### Market Profile & Auction Theory
 
@@ -96,8 +95,8 @@ Books that form the intellectual backbone of institutional trading. Read in the 
 | Book | Author | Why It Matters |
 | --- | --- | --- |
 | [Option Volatility and Pricing](https://www.amazon.com/Option-Volatility-Pricing-Strategies-Techniques/dp/0071818774) | Sheldon Natenberg | The absolute industry standard for options theory. Required reading on every institutional derivatives desk. |
-| [Trading Volatility](https://www.amazon.com/Trading-Volatility-Correlation-Variance-Volatility/dp/1499573281) | Colin Bennett | Written by a former desk head at UBS and Santander. Deep dive into how banks trade variance swaps, volatility, and manage Greeks. |
-| [Positional Option Trading](https://www.amazon.com/Positional-Option-Trading-Quantitative-Finance/dp/111905580X) | Euan Sinclair | Focuses on trading volatility as a quantitative edge rather than directional gambling. |
+| [Trading Volatility](https://www.amazon.com/Trading-Volatility-Correlation-Term-Structure/dp/1461108756) | Colin Bennett | Written by a former desk head at UBS and Santander. Deep dive into how banks trade variance swaps, volatility, and manage Greeks. |
+| [Positional Option Trading](https://www.amazon.com/Positional-Option-Trading-Wiley/dp/1119583519) | Euan Sinclair | Focuses on trading volatility as a quantitative edge rather than directional gambling. |
 
 ---
 
@@ -145,12 +144,6 @@ Options market makers (dealers) continuously hedge their exposure (Gamma, Delta,
 6. **Profile Shapes** — Normal, P-shape, b-shape, Double Distribution — each signals a different market narrative.
 7. **Day Types** — Trend, Normal, Normal Variation, Neutral — classifying the day type before it ends is the core skill.
 
-### Free Market Profile Resources
-
-- 🌐 [Jim Dalton Trading](https://jimdaltontrading.com/) — James Dalton's official site with articles and commentary.
-- 🌐 [Invest With Rules](https://www.investwithrules.com) — Practical Market Profile education with clear explanations of auction theory concepts.
-- 🌐 [Profiletraders.com](https://www.profiletraders.com) — Educational articles on Volume Profile and Market Profile applications.
-
 ---
 
 ## Order Flow & Footprint Charts
@@ -172,10 +165,10 @@ Order flow trading reads the *real-time battle* between buyers and sellers at th
 
 ### Free Educational Resources
 
-- 🌐 [Jigsaw Trading Education](https://www.jigsawtrading.com/) — One of the most detailed free libraries on reading the tape, order flow, and DOM trading.
+- 🌐 [AlgoStorm Trading Academy](https://algostorm.com/trading-academy/) — Professional structured curriculum covering technical analysis and institutional order flow.
+- 🌐 [Jigsaw Trading Education](https://www.jigsawtrading.com/blog/) — The official Jigsaw trading blog that features a good list of lessons.
 - 🌐 [Bookmap Resources](https://bookmap.com/knowledgebase) — Comprehensive knowledge base on reading the heatmap, liquidity, and order flow dynamics.
 - 🌐 [Quantower Blog](https://help.quantower.com) — Technical documentation and educational content on footprint charts and volume analysis.
-- 📺 [Axia Futures](https://www.axiafutures.com/education) — High-quality educational content on tape reading and futures execution from a professional prop firm perspective.
 
 ---
 
@@ -183,7 +176,6 @@ Order flow trading reads the *real-time battle* between buyers and sellers at th
 
 For traders who want to understand the *mechanics* of how orders flow through exchanges and who the market participants really are.
 
-- 📄 **[The Market Microstructure of Financial Derivatives](https://www.chicagobooth.edu/research)** — Search at Chicago Booth for market microstructure research papers (freely available).
 - 📄 **[High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506)** — Irene Aldridge. Useful for understanding the liquidity environment created by HFT participants.
 - 🌐 [SSRN Finance Research](https://www.ssrn.com/en/) — Repository of free academic papers on market microstructure, order flow, and liquidity.
 - 🌐 [CME Group Education](https://www.cmegroup.com/education.html) — Official educational resources from the exchange itself. Includes contract specifications, margin documentation, and market mechanics.
@@ -298,9 +290,8 @@ Channels that consistently produce content grounded in institutional mechanics �
 | Channel | Focus |
 | --- | --- |
 | [CME Group](https://www.youtube.com/@CMEGroup) | Official exchange channel. Excellent for understanding futures products, margin, and market mechanics. |
-| [Eurex](https://www.youtube.com/@EurexGroup) | Official European derivatives exchange. Essential for DAX, Euro Stoxx, and Bund mechanics. |
 | [ICE](https://www.youtube.com/@ICE_Markets) | Intercontinental Exchange. Official channel for Energy (Brent/WTI) and soft commodities. |
-| [CBOE](https://www.youtube.com/@CBOE) | Chicago Board Options Exchange. The authority on options mechanics and VIX. |
+| [CBOE](https://www.youtube.com/@CboeGlobalMarkets) | Chicago Board Options Exchange. The authority on options mechanics and VIX. |
 
 ---
 
