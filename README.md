@@ -1,11 +1,11 @@
-# 📊 Awesome Institutional Trading Resources
+# Awesome Institutional Trading Resources
 
 > A curated collection of **institutional-grade** resources for serious futures, forex, and crypto traders.  
 > Focused on **Order Flow**, **Volume Profile**, **Market Profile**, and the mechanics of how institutions actually move markets.
 
 **Brought to you by [AlgoStorm](https://algostorm.com) — Master institutional order flow, volume profile, and systematic price action strategies.**
 
-[![Awesome List Badge](https://img.shields.io/badge/Awesome-List-7a003c?labelColor=1a1a1a)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Maintained Status: Yes](https://img.shields.io/badge/Maintained-Yes-004d00?labelColor=1a1a1a)
 ![Pull Requests Welcome](https://img.shields.io/badge/PRs-Welcome-003366?labelColor=1a1a1a)
 ![Zero Affiliate Links Guarantee](https://img.shields.io/badge/Affiliate_Links-Zero-004d00?labelColor=1a1a1a)
@@ -128,9 +128,9 @@ Options market makers (dealers) continuously hedge their exposure (Gamma, Delta,
 
 ### Free GEX & Options Data
 
-- 🌐 [SpotGamma](https://spotgamma.com/) — The industry leader in mapping options dealer positioning. Provides institutional-grade Gamma and Delta levels for index and equity traders.
-- 🌐 [Squeezemetrics DIX & GEX](https://squeezemetrics.com/monitor/dix) — Free daily data on the Dark Index (DIX) and Gamma Exposure (GEX) for the S&P 500.
-- 🌐 [Cboe Data Shop](https://datashop.cboe.com/) — Source for official options data, volume statistics, and historical VIX data.
+- [SpotGamma](https://spotgamma.com/) — The industry leader in mapping options dealer positioning. Provides institutional-grade Gamma and Delta levels for index and equity traders.
+- [Squeezemetrics DIX & GEX](https://squeezemetrics.com/monitor/dix) — Free daily data on the Dark Index (DIX) and Gamma Exposure (GEX) for the S&P 500.
+- [Cboe Data Shop](https://datashop.cboe.com/) — Source for official options data, volume statistics, and historical VIX data.
 
 ---
 
@@ -167,10 +167,10 @@ Order flow trading reads the *real-time battle* between buyers and sellers at th
 
 ### Free Educational Resources
 
-- 🌐 [AlgoStorm Trading Academy](https://algostorm.com/trading-academy/) — Professional structured curriculum covering technical analysis and institutional order flow.
-- 🌐 [Jigsaw Trading Education](https://www.jigsawtrading.com/blog/) — The official Jigsaw trading blog that features a good list of lessons.
-- 🌐 [Bookmap Resources](https://bookmap.com/knowledgebase) — Comprehensive knowledge base on reading the heatmap, liquidity, and order flow dynamics.
-- 🌐 [Quantower Blog](https://help.quantower.com) — Technical documentation and educational content on footprint charts and volume analysis.
+- [AlgoStorm Trading Academy](https://algostorm.com/trading-academy/) — Professional structured curriculum covering technical analysis and institutional order flow.
+- [Jigsaw Trading Education](https://www.jigsawtrading.com/blog/) — The official Jigsaw trading blog that features a good list of lessons.
+- [Bookmap Resources](https://bookmap.com/knowledgebase) — Comprehensive knowledge base on reading the heatmap, liquidity, and order flow dynamics.
+- [Quantower Blog](https://help.quantower.com) — Technical documentation and educational content on footprint charts and volume analysis.
 
 ---
 
@@ -188,10 +188,10 @@ For traders who want to understand the *mechanics* of how orders flow through ex
 
 ### Web Resources & Research
 
-- 🌐 [SSRN Finance Research](https://www.ssrn.com/en/) — Repository of free academic papers on market microstructure, order flow, and liquidity.
-- 🌐 [CME Group Education](https://www.cmegroup.com/education.html) — Official educational resources from the exchange itself. Includes contract specifications, margin documentation, and market mechanics.
-- 🌐 [Bank for International Settlements (BIS) Research](https://www.bis.org/) — The "Central Bank of Central Banks." Publishes quarterly reviews and working papers on global liquidity and market structure.
-- 🌐 [FIX Trading Community](https://www.fixtrading.org/) — The non-profit that manages the FIX Protocol, the technical messaging standard institutions use to execute order flow.
+- [SSRN Finance Research](https://www.ssrn.com/en/) — Repository of free academic papers on market microstructure, order flow, and liquidity.
+- [CME Group Education](https://www.cmegroup.com/education.html) — Official educational resources from the exchange itself. Includes contract specifications, margin documentation, and market mechanics.
+- [Bank for International Settlements (BIS) Research](https://www.bis.org/) — The "Central Bank of Central Banks." Publishes quarterly reviews and working papers on global liquidity and market structure.
+- [FIX Trading Community](https://www.fixtrading.org/) — The non-profit that manages the FIX Protocol, the technical messaging standard institutions use to execute order flow.
 
 ---
 
@@ -230,8 +230,8 @@ Institutional edges are rigorously backtested. These frameworks allow traders to
 
 TradingView is the most accessible charting platform globally. Learning Pine Script allows you to code custom order flow tools and backtest systematic concepts, breaking reliance on black-box retail indicators.
 
-- 📄 **[Pine Script User Manual](https://www.tradingview.com/pine-script-docs/)** — The official guide to building custom indicators and strategies.
-- 📄 **[Pine Script Reference](https://www.tradingview.com/pine-script-reference/)** — The complete syntax dictionary for all Pine Script functions.
+- **[Pine Script User Manual](https://www.tradingview.com/pine-script-docs/)** — The official guide to building custom indicators and strategies.
+- **[Pine Script Reference](https://www.tradingview.com/pine-script-reference/)** — The complete syntax dictionary for all Pine Script functions.
 
 ---
 
@@ -239,10 +239,10 @@ TradingView is the most accessible charting platform globally. Learning Pine Scr
 
 Institutions do not rely solely on charting GUIs; they process raw Level 3 order book and tick data.
 
-- 💻 **[kdb+/q (KX Systems)](https://kx.com/)** — The absolute industry standard time-series database for Tier-1 banks and high-frequency trading firms. Capable of analyzing billions of ticks per second.
-- 💻 **[ArcticDB (Man AHL)](https://arcticdb.io/)** — An open-source DataFrame database built by the Man AHL hedge fund specifically for storing and analyzing massive amounts of tick data at blazing speeds.
-- 💻 **[Apache Parquet](https://parquet.apache.org/)** — The standard columnar storage file format used by quants to store historical tick data efficiently.
-- 💻 **Python Data Stack** — The core toolkit: **Pandas** (time-series analysis), **NumPy** (vectorized math), and **SciPy** (statistical functions).
+- **[kdb+/q (KX Systems)](https://kx.com/)** — The absolute industry standard time-series database for Tier-1 banks and high-frequency trading firms. Capable of analyzing billions of ticks per second.
+- **[ArcticDB (Man AHL)](https://arcticdb.io/)** — An open-source DataFrame database built by the Man AHL hedge fund specifically for storing and analyzing massive amounts of tick data at blazing speeds.
+- **[Apache Parquet](https://parquet.apache.org/)** — The standard columnar storage file format used by quants to store historical tick data efficiently.
+- **Python Data Stack** — The core toolkit: **Pandas** (time-series analysis), **NumPy** (vectorized math), and **SciPy** (statistical functions).
 
 ---
 
@@ -250,9 +250,9 @@ Institutions do not rely solely on charting GUIs; they process raw Level 3 order
 
 The largest volume in the world flows through fixed income. Understanding Central Bank liquidity, Treasury yields, and overnight funding is crucial for predicting equity indices and FX.
 
-- 📄 **[Federal Reserve Repo Facility Data](https://fred.stlouisfed.org/series/RRPONTSYD)** — Tracking Reverse Repo (RRP) balances to understand institutional liquidity and cash reserves in the banking system.
-- 📄 **[Treasury Direct / Auction Results](https://www.treasurydirect.gov/instit/instit.htm)** — Monitoring bond auction bid-to-cover ratios provides a pure read on global institutional demand for US debt.
-- 📺 **[MacroVoices (Podcast)](https://www.macrovoices.com/)** — Professional-grade macro podcast frequently featuring hedge fund managers discussing Eurodollar/SOFR markets, yield curve control, and global liquidity mechanics.
+- **[Federal Reserve Repo Facility Data](https://fred.stlouisfed.org/series/RRPONTSYD)** — Tracking Reverse Repo (RRP) balances to understand institutional liquidity and cash reserves in the banking system.
+- **[Treasury Direct / Auction Results](https://www.treasurydirect.gov/instit/instit.htm)** — Monitoring bond auction bid-to-cover ratios provides a pure read on global institutional demand for US debt.
+- **[MacroVoices (Podcast)](https://www.macrovoices.com/)** — Professional-grade macro podcast frequently featuring hedge fund managers discussing Eurodollar/SOFR markets, yield curve control, and global liquidity mechanics.
 
 ---
 
