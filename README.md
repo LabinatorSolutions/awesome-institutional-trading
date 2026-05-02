@@ -42,7 +42,7 @@ This is a resource for traders who are serious about building a durable, data-dr
 - [Macro & Fixed Income Mechanics](#macro--fixed-income-mechanics)
 - [Platforms & Charting Software](#platforms--charting-software)
 - [Free Data Sources](#free-data-sources)
-- [YouTube Channels](#youtube-channels)
+- [Podcasts & YouTube Channels](#podcasts--youtube-channels)
 - [Glossary of Key Concepts](#glossary-of-key-concepts)
 - [Contributing](#contributing)
 
@@ -59,6 +59,12 @@ Books that form the intellectual backbone of institutional trading. Read in the 
 | [Trading in the Zone](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude/dp/0735201447) | Mark Douglas | The definitive text on trading psychology. Understand why discipline, not strategy, is the primary failure point for most traders. |
 | [The Disciplined Trader](https://www.amazon.com/Disciplined-Trader-Developing-Winning-Attitudes/dp/0132157578) | Mark Douglas | Douglas's earlier and equally important work on the mental framework required for consistency. |
 
+### Trader Interviews & Market History
+
+| Book | Author | Why It Matters |
+| --- | --- | --- |
+| [Market Wizards (6 book series)](https://www.amazon.com/dp/B08R3SYBFS) | Jack D. Schwager | The definitive collection of interviews with top institutional traders and hedge fund managers. Essential for understanding risk management and strategy from market legends. |
+
 ### Risk Management & Portfolio Mathematics
 
 | Book | Author | Why It Matters |
@@ -73,7 +79,7 @@ Books that form the intellectual backbone of institutional trading. Read in the 
 | --- | --- | --- |
 | [The Wyckoff Methodology in Depth](https://www.amazon.com/dp/B08W2X3TQY) | Rubén Villahermosa | The clearest modern explanation of Wyckoff's supply/demand and accumulation/distribution framework. |
 | [Trades About to Happen](https://www.amazon.com/Trades-About-Happen-Wyckoff-Methodology/dp/0470487801) | David H. Weis | Applies Wyckoff principles to modern markets using real charts. Practical and precise. |
-| [Jesse Livermore's Two Books of Market Wisdom](https://www.amazon.com/dp/B09648V5Z9) |  Richard Demille Wyckoff, Jesse Lauriston Livermore, Edwin Lefevre | Two great works attributed to the great Jesse Livermore presented together in one volume with a new foreword by Juliette Rogers. Both contain interesting insights into Livermore’s life and times as well as the reasons for his success. They remain classics and must a must listen for every new aspirant in the world of speculation. |
+| [Jesse Livermore's Two Books of Market Wisdom](https://www.amazon.com/dp/B09648V5Z9) | Richard Demille Wyckoff, Jesse Lauriston Livermore, Edwin Lefevre | Two classic works attributed to Jesse Livermore. Provides foundational insights into market speculation and the realities of trading. |
 
 ### Market Profile & Auction Theory
 
@@ -81,6 +87,7 @@ Books that form the intellectual backbone of institutional trading. Read in the 
 | --- | --- | --- |
 | [Mind Over Markets](https://www.amazon.com/Mind-Over-Markets-Generated-Information-ebook/dp/B00DOSTEVG) | James F. Dalton, Eric T. Jones, Robert B. Dalton | The foundational text on Market Profile and auction market theory. Non-negotiable reading for order flow traders. |
 | [Markets in Profile](https://www.amazon.com/Markets-Profile-Profiting-Auction-Process/dp/0470039094) | James F. Dalton | The follow-up to *Mind Over Markets*. Extends the framework to modern electronic markets. |
+| [Steidlmayer on Markets](https://www.amazon.com/Steidlmayer-Markets-Trading-Market-Profile/dp/0471215562) | J. Peter Steidlmayer | The creator's own book developing the Market Profile concept. Dense but authoritative. |
 
 ### Algorithmic & Quantitative Context
 
@@ -129,10 +136,6 @@ Options market makers (dealers) continuously hedge their exposure (Gamma, Delta,
 
 ## Market Profile & Volume Profile
 
-### Primary Books
-
-- 📄 **[Steidlmayer on Markets](https://www.amazon.com/Steidlmayer-Markets-Trading-Market-Profile/dp/0471215562)** — J. Peter Steidlmayer's own book developing the Market Profile concept. Dense but authoritative.
-
 ### Concepts to Master (in order)
 
 1. **Auction Market Theory (AMT)** — The foundational model explaining that all markets are driven by the auction process of finding fair value.
@@ -175,11 +178,18 @@ Order flow trading reads the *real-time battle* between buyers and sellers at th
 
 For traders who want to understand the *mechanics* of how orders flow through exchanges and who the market participants really are.
 
-- 📄 **[High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506)** — Irene Aldridge. Useful for understanding the liquidity environment created by HFT participants.
+### Recommended Books
+
+| Book | Author | Why It Matters |
+| --- | --- | --- |
+| [High-Frequency Trading](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) | Irene Aldridge | Useful for understanding the liquidity environment created by HFT participants. |
+| [Market Liquidity: Theory, Evidence, and Policy](https://www.amazon.com/Market-Liquidity-Theory-Evidence-Policy/dp/0199936242) | Thierry Foucault | The definitive text on how liquidity is provided and consumed in modern electronic markets. |
+| [Empirical Market Microstructure](https://www.amazon.com/Empirical-Market-Microstructure-Institutions-Econometrics/dp/0195301641) | Joel Hasbrouck | The technical standard for the econometrics of securities trading. |
+
+### Web Resources & Research
+
 - 🌐 [SSRN Finance Research](https://www.ssrn.com/en/) — Repository of free academic papers on market microstructure, order flow, and liquidity.
 - 🌐 [CME Group Education](https://www.cmegroup.com/education.html) — Official educational resources from the exchange itself. Includes contract specifications, margin documentation, and market mechanics.
-- 📄 **[Market Liquidity: Theory, Evidence, and Policy](https://www.amazon.com/Market-Liquidity-Theory-Evidence-Policy/dp/0199936242)** — Thierry Foucault. The definitive text on how liquidity is provided and consumed in modern electronic markets.
-- 📄 **[Empirical Market Microstructure](https://www.amazon.com/Empirical-Market-Microstructure-Institutions-Econometrics/dp/0195301641)** — Joel Hasbrouck. The technical standard for the econometrics of securities trading.
 - 🌐 [Bank for International Settlements (BIS) Research](https://www.bis.org/) — The "Central Bank of Central Banks." Publishes quarterly reviews and working papers on global liquidity and market structure.
 - 🌐 [FIX Trading Community](https://www.fixtrading.org/) — The non-profit that manages the FIX Protocol, the technical messaging standard institutions use to execute order flow.
 
@@ -229,6 +239,7 @@ TradingView is the most accessible charting platform globally. Learning Pine Scr
 
 Institutions do not rely solely on charting GUIs; they process raw Level 3 order book and tick data.
 
+- 💻 **[kdb+/q (KX Systems)](https://kx.com/)** — The absolute industry standard time-series database for Tier-1 banks and high-frequency trading firms. Capable of analyzing billions of ticks per second.
 - 💻 **[ArcticDB (Man AHL)](https://arcticdb.io/)** — An open-source DataFrame database built by the Man AHL hedge fund specifically for storing and analyzing massive amounts of tick data at blazing speeds.
 - 💻 **[Apache Parquet](https://parquet.apache.org/)** — The standard columnar storage file format used by quants to store historical tick data efficiently.
 - 💻 **Python Data Stack** — The core toolkit: **Pandas** (time-series analysis), **NumPy** (vectorized math), and **SciPy** (statistical functions).
@@ -282,15 +293,16 @@ Platforms that support genuine order flow analysis — footprint charts, volume 
 
 ---
 
-## YouTube Channels
+## Podcasts & YouTube Channels
 
-Channels that consistently produce content grounded in institutional mechanics — not retail indicator noise.
+Channels and podcasts that consistently produce content grounded in institutional mechanics — not retail indicator noise.
 
-| Channel | Focus |
+| Channel / Podcast | Focus |
 | --- | --- |
 | [CME Group](https://www.youtube.com/@CMEGroup) | Official exchange channel. Excellent for understanding futures products, margin, and market mechanics. |
 | [ICE](https://www.youtube.com/@ICE_Markets) | Intercontinental Exchange. Official channel for Energy (Brent/WTI) and soft commodities. |
 | [CBOE](https://www.youtube.com/@CboeGlobalMarkets) | Chicago Board Options Exchange. The authority on options mechanics and VIX. |
+| [Chat With Traders](https://chatwithtraders.com/) | The audio equivalent of *Market Wizards*. Deep-dive interviews with proprietary traders, quant researchers, and institutional operators. |
 
 ---
 
