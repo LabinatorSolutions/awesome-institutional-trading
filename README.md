@@ -79,7 +79,7 @@ Books that form the intellectual backbone of institutional trading. Read in the 
 
 | Book | Author | Why It Matters |
 | --- | --- | --- |
-| [Mind Over Markets](https://www.amazon.com/Mind-Over-Markets-Performance-Strategies/dp/0071610391) | James F. Dalton, Eric T. Jones, Robert B. Dalton | The foundational text on Market Profile and auction market theory. Non-negotiable reading for order flow traders. |
+| [Mind Over Markets](https://www.amazon.com/Mind-Over-Markets-Generated-Information-ebook/dp/B00DOSTEVG) | James F. Dalton, Eric T. Jones, Robert B. Dalton | The foundational text on Market Profile and auction market theory. Non-negotiable reading for order flow traders. |
 | [Markets in Profile](https://www.amazon.com/Markets-Profile-Profiting-Auction-Process/dp/0470039094) | James F. Dalton | The follow-up to *Mind Over Markets*. Extends the framework to modern electronic markets. |
 
 ### Algorithmic & Quantitative Context
