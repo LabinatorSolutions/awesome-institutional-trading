@@ -171,6 +171,7 @@ Order flow trading reads the *real-time battle* between buyers and sellers at th
 - [Jigsaw Trading Education](https://www.jigsawtrading.com/blog/) — The official Jigsaw trading blog that features a good list of lessons.
 - [Bookmap Resources](https://bookmap.com/knowledgebase) — Comprehensive knowledge base on reading the heatmap, liquidity, and order flow dynamics.
 - [Quantower Blog](https://help.quantower.com) — Technical documentation and educational content on footprint charts and volume analysis.
+- [Volume Market Analysis](https://arapov.trade/en/freestudying/volume-analysis) — Reading the balance of buyers and sellers through trade volume; the foundation for order flow and Wyckoff-style analysis.
 
 ---
 
