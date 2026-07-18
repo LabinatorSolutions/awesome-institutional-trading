@@ -192,6 +192,7 @@ For traders who want to understand the *mechanics* of how orders flow through ex
 - [CME Group Education](https://www.cmegroup.com/education.html) — Official educational resources from the exchange itself. Includes contract specifications, margin documentation, and market mechanics.
 - [Bank for International Settlements (BIS) Research](https://www.bis.org/) — The "Central Bank of Central Banks." Publishes quarterly reviews and working papers on global liquidity and market structure.
 - [FIX Trading Community](https://www.fixtrading.org/) — The non-profit that manages the FIX Protocol, the technical messaging standard institutions use to execute order flow.
+- [Market Microstructure Guide](https://arapov.trade/en/freestudying/market-microstructure) — Free guide to order flow, the order book, and how price is actually formed.
 
 ---
 
