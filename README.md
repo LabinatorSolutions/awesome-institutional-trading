@@ -131,6 +131,7 @@ Options market makers (dealers) continuously hedge their exposure (Gamma, Delta,
 - [SpotGamma](https://spotgamma.com/) — The industry leader in mapping options dealer positioning. Provides institutional-grade Gamma and Delta levels for index and equity traders.
 - [Squeezemetrics DIX & GEX](https://squeezemetrics.com/monitor/dix) — Free daily data on the Dark Index (DIX) and Gamma Exposure (GEX) for the S&P 500.
 - [Cboe Data Shop](https://datashop.cboe.com/) — Source for official options data, volume statistics, and historical VIX data.
+- [SIGNUM HQ](https://signumhq.com/app) — Free iOS and Android app publishing per-ticker gamma exposure by strike, the gamma flip level, call and put walls, and max pain for US equities, alongside dark pool share computed from FINRA ATS data.
 
 ---
 
