@@ -253,6 +253,7 @@ The largest volume in the world flows through fixed income. Understanding Centra
 - **[Federal Reserve Repo Facility Data](https://fred.stlouisfed.org/series/RRPONTSYD)** — Tracking Reverse Repo (RRP) balances to understand institutional liquidity and cash reserves in the banking system.
 - **[Treasury Direct / Auction Results](https://www.treasurydirect.gov/instit/instit.htm)** — Monitoring bond auction bid-to-cover ratios provides a pure read on global institutional demand for US debt.
 - **[MacroVoices (Podcast)](https://www.macrovoices.com/)** — Professional-grade macro podcast frequently featuring hedge fund managers discussing Eurodollar/SOFR markets, yield curve control, and global liquidity mechanics.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ---
 
