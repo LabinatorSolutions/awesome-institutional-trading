@@ -133,6 +133,7 @@ Options market makers (dealers) continuously hedge their exposure (Gamma, Delta,
 - [Squeezemetrics DIX & GEX](https://squeezemetrics.com/monitor/dix) — Free daily data on the Dark Index (DIX) and Gamma Exposure (GEX) for the S&P 500.
 - [AlgoStorm SPX GEX Dashboard](https://algostorm.com/gex/?utm_source=github&utm_medium=readme&utm_campaign=gex-dashboard) — Free, no signup. Delayed SPX options chain from CBOE, Black-Scholes gamma per strike, call/put walls and the gamma flip level. Exports a CSV line for TradingView.
 - [Cboe Data Shop](https://datashop.cboe.com/) — Source for official options data, volume statistics, and historical VIX data.
+- [SIGNUM HQ](https://signumhq.com/app) — Free iOS and Android app publishing per-ticker gamma exposure by strike, the gamma flip level, call and put walls, and max pain for US equities, alongside dark pool share computed from FINRA ATS data.
 
 ---
 
