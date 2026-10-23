@@ -229,6 +229,7 @@ Institutional edges are rigorously backtested. These frameworks allow traders to
 | [NautilusTrader](https://nautilustrader.io/) | Rust / Python | Open-source, ultra-high-performance algorithmic trading platform. Designed for HFT and institutional-grade event-driven backtesting. |
 | [QuantConnect](https://www.quantconnect.com/) | C# / Python | Cloud-based algorithmic trading engine with massive built-in institutional datasets (tick, fundamental, alternative). |
 | [Backtrader](https://www.backtrader.com/) | Python | The most widely used open-source Python backtesting framework. Excellent for prototyping systematic strategies. |
+| [LumiBot](https://github.com/Lumiwealth/lumibot) | Python | Open-source backtesting and live trading for stocks, options, futures, forex and crypto with the same strategy code; 12 broker integrations including Interactive Brokers and Tradovate. |
 
 ### Pine Script & Custom Tooling
 
