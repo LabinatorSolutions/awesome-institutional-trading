@@ -300,6 +300,7 @@ Platforms that support genuine order flow analysis — footprint charts, volume 
 | **Polygon.io** | Real-time and historical market data with a generous free tier. REST and WebSocket APIs. | [polygon.io](https://polygon.io) |
 | **FRED (St. Louis Fed)** | Macroeconomic data essential for understanding interest rate environments and institutional positioning. | [fred.stlouisfed.org](https://fred.stlouisfed.org) |
 | **COT Data (CFTC)** | Commitments of Traders reports — shows the positioning of commercials, large speculators, and small speculators in futures. | [cftc.gov](https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm) |
+| **SiftingIO** | Real-time prices and historical OHLCV for US stocks, forex, commodities and crypto; API-key free tier for evaluating research workflows | [sifting.io/docs](https://sifting.io/docs) |
 
 ---
 
