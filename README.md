@@ -283,6 +283,7 @@ Platforms that support genuine order flow analysis — footprint charts, volume 
 | [NinjaTrader](https://ninjatrader.com) | Free for simulation. Extensive ecosystem of add-ons. Popular for US futures markets. | Free (simulation) | Futures |
 | [MotiveWave](https://motivewave.com/) | Extremely powerful for Elliott Wave theory, harmonics, and volume footprint. Native macOS support. | Paid | Futures, Stocks, Forex, Crypto |
 | [GoCharting](https://gocharting.com/) | Web-based order flow and volume profile platform. One of the easiest ways to access footprint charts without heavy desktop software. | Free tier available | Crypto, Stocks, Forex |
+| [Swiftedge](https://swiftedge.uk) | Browser-based order book heatmap with every trade drawn as a bubble, plus footprint chart, CVD, volume profile and TPO. No install, no account, works on a phone. Free JSON API. | Free (optional paid club) | Crypto, Gold, Silver, Oil, US 500 / US 100 (24/7 markets of their own, not the CME book) |
 | [TradingView](https://www.tradingview.com) | Best-in-class for charting accessibility and Pine Script ecosystem. Limited native order flow tools, but powerful for volume profile and custom indicators. | Free tier available | All markets |
 
 ---
