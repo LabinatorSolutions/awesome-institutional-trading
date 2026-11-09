@@ -217,7 +217,7 @@ Professional-grade tools built specifically for institutional order flow traders
 | --- | --- | --- |
 | **TradingView** | Free tier includes charting, replay, Pine Script access, and basic volume indicators. | [tradingview.com](https://www.tradingview.com) |
 | **CME Group FedWatch** | Tracks interest rate expectations — important macro context for futures traders. | [cmegroup.com/fedwatch](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html) |
-
+| **TradeHarbor Trailing Drawdown Calculator** | Shows where a prop firm account's drawdown floor sits and how much room is left, for end-of-day and intraday trailing rules, with presets for 14 futures firms' plans. Free, no account. | [tradeharbor.co](https://tradeharbor.co/tools/trailing-drawdown-calculator) |
 ---
 
 ## Systematic & Algorithmic Trading
